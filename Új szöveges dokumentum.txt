@@ -1,0 +1,9 @@
+lab5_1a
+sw[2],sw[4],sw[6],sw[8] legyen 1 es legyen csak erre kell kipróbálni a szimulációban
+lab5_1b
+lab5_1c
+//verilog 2001
+lab5_2
+lab5_3a
+lab5_3c
+szimuláció bemenet 0 0 1 1
